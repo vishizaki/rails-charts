@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
-gem 'chartkick', '~> 1.4', '>= 1.4.1'
+gem 'chartkick', '~> 3.4'
 gem 'groupdate', '~> 2.5', '>= 2.5.2'
 gem 'bootsnap', '>= 1.1.0', require: false
 
